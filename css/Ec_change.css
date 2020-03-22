@@ -32,7 +32,11 @@ nav{
 	background: red;
 }
 
-
+i{
+	font-size: 3rem;
+	border-color: white;
+	border-style: solid;
+}
 
 
 
